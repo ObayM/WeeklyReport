@@ -1,0 +1,41 @@
+{
+    "weekNumber": "42",
+    "feeling": "Optimistic",
+    "mainGoal": "Learn React",
+    "sideGoal": "Improve Python skills",
+    "dateRange": {
+      "start": "10th of Oct",
+      "end": "16th of Oct"
+    },
+    "expectedOutcomes": [
+      {
+        "goal": "Goal 1",
+        "outcome": "Complete a basic React tutorial and build a simple app"
+      },
+      {
+        "goal": "Goal 2",
+        "outcome": "Solve 10 Python coding challenges on LeetCode"
+      }
+    ],
+    "actualResults": [
+      {
+        "goal": "Goal 1",
+        "outcome": "Completed half of the React tutorial, haven't started building an app yet"
+      },
+      {
+        "goal": "Goal 2",
+        "outcome": "Solved 5 Python challenges on LeetCode"
+      }
+    ],
+    "challengesMistakes": [
+      "Procrastinated on starting the React tutorial, which delayed progress",
+      "Spent too much time on social media instead of coding"
+    ],
+    "lessonsLearned": [
+      "Need to set specific time blocks for learning and stick to them",
+      "Should limit social media usage during designated study times"
+    ],
+    "nextSteps": "Create a strict schedule for the upcoming week and use a website blocker during study times",
+    "successRating": 6,
+    "reflection": "Made some progress, but need to improve focus and time management to reach goals more effectively"
+  }
